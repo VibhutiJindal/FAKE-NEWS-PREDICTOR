@@ -1,9 +1,12 @@
 # FAKE-NEWS-PREDICTOR
 Problem Statemtent: 
+
 Build a system to identify unreliable news articles
 
 Dataset Description:
+
 Dataset is taken from Kaggle
+
 https://www.kaggle.com/c/fake-news
 
 train.csv: A full training dataset with the following attributes:
@@ -19,8 +22,11 @@ label: a label that marks the article as potentially unreliable
 It follows the basic procedure for creating a model that is :
 
 Data Collection
+
 Data Analysis
+
 Model Building
+
 Accuracy Testing
 
 Any improvement or changes are welcomed.
